@@ -1,6 +1,8 @@
 # Thailand Tourism Data Pipeline with Python and SQL Server
 
-This project demonstrates how to automate the acquisition and management of data from the Bank of Thailand (BOT) API using Python and SQL Server. While this project focuses on retrieving Thailand's tourism data, the code and process can be easily adapted to retrieve any data series available through the BOT API. 
+This project demonstrates how to automate the acquisition and management of data from the Bank of Thailand (BOT) API using Python and SQL Server. While this project focuses on retrieving Thailand's tourism data, the code and process can be easily adapted to retrieve any data series available through the BOT API.
+
+![Getting data from API flow chart](https://github.com/user-attachments/assets/16ee4a38-cd31-407e-9b0d-d4f90dd9e682)
 
 ## Project Overview
 
