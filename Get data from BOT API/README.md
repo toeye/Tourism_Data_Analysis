@@ -30,7 +30,7 @@ This script retrieves monthly tourism data from the BOT API, stores it in a SQL 
 
 **2.  Set up the Database:**
 
-* **Create the database:** Execute the SQL script `Create_Table_for_Data_from_BOT_API.sql` to create the `Thailand_tourism_data` database and the necessary tables (`tourism_stats` and `update_tourism_stats`). You may want to modify the database and table names to reflect the specific data you are retrieving. 
+* **Create the database:** Execute the SQL script `create_tables.sql` to create the `Thailand_tourism_data` database and the necessary tables (`tourism_stats` and `update_tourism_stats`). You may want to modify the database and table names to reflect the specific data you are retrieving. 
 
 **3.  Configure the Python Scripts:**
 
