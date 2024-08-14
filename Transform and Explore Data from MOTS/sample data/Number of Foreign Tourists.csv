@@ -1,0 +1,1001 @@
+﻿Year,Month,Country,Region,Sub_Region,Number of Tourists
+2020,Jul,Kuwait,Middle East,NULL,0
+2020,Jul,Lebanon,Middle East,NULL,0
+2020,Jul,Oman,Middle East,NULL,0
+2020,Jul,Qatar,Middle East,NULL,0
+2020,Jul,Saudi Arabia,Middle East,NULL,0
+2020,Jul,U.A.E.,Middle East,NULL,0
+2020,Jul,Yemen,Middle East,NULL,0
+2020,Jul,Other in Middle East,Middle East,NULL,0
+2020,Jul,Canada,America,NULL,0
+2020,Jul,Mexico,America,NULL,0
+2020,Jul,Argentina,America,NULL,0
+2020,Jul,The United States of America,America,NULL,0
+2020,Jul,Brazil,America,NULL,0
+2020,Jul,Chile,America,NULL,0
+2020,Jul,Korea (Republic of),Asia and the Pacific,North-East Asia,0
+2020,Jul,Macao (China),Asia and the Pacific,North-East Asia,0
+2020,Jul,Mongolia,Asia and the Pacific,North-East Asia,0
+2020,Jul,Taiwan,Asia and the Pacific,North-East Asia,0
+2020,Jul,Brunei,Asia and the Pacific,South-East Asia,0
+2020,Jul,Cambodia,Asia and the Pacific,South-East Asia,0
+2020,Jul,Indonesia,Asia and the Pacific,South-East Asia,0
+2020,Jul,Laos,Asia and the Pacific,South-East Asia,0
+2020,Jul,Malaysia,Asia and the Pacific,South-East Asia,0
+2020,Jul,Myanmar,Asia and the Pacific,South-East Asia,0
+2020,Jul,Philippines,Asia and the Pacific,South-East Asia,0
+2020,Jul,Singapore,Asia and the Pacific,South-East Asia,0
+2020,Jul,Vietnam,Asia and the Pacific,South-East Asia,0
+2020,Jul,Bangladesh,Asia and the Pacific,South Asia,0
+2020,Jul,Bhutan,Asia and the Pacific,South Asia,0
+2020,Jul,India,Asia and the Pacific,South Asia,0
+2020,Jul,Iran,Asia and the Pacific,South Asia,0
+2020,Jul,Maldives,Asia and the Pacific,South Asia,0
+2020,Jul,Nepal,Asia and the Pacific,South Asia,0
+2020,Jul,Pakistan,Asia and the Pacific,South Asia,0
+2020,Jul,Australia,Asia and the Pacific,Oceania,0
+2020,Jul,Sri Lanka,Asia and the Pacific,South Asia,0
+2020,Jul,New Zealand,Asia and the Pacific,Oceania,0
+2020,Jul,Other in Oceania,Asia and the Pacific,Oceania,0
+2020,Jul,Denmark,Europe,Northern Europe,0
+2020,Jul,Finland,Europe,Northern Europe,0
+2020,Jul,Iceland,Europe,Northern Europe,0
+2020,Jul,Ireland,Europe,Northern Europe,0
+2020,Jul,Norway,Europe,Northern Europe,0
+2020,Jul,Sweden,Europe,Northern Europe,0
+2020,Jul,United Kingdom,Europe,Northern Europe,0
+2020,Jul,Austria,Europe,Western Europe,0
+2020,Jul,Belgium,Europe,Western Europe,0
+2020,Jul,France,Europe,Western Europe,0
+2020,Jul,Germany,Europe,Western Europe,0
+2020,Jul,Luxembourg,Europe,Western Europe,0
+2020,Jul,Netherlands,Europe,Western Europe,0
+2020,Jul,Switzerland,Europe,Western Europe,0
+2020,Jul,Croatia,Europe,Southern/Medit. Europe,0
+2020,Jul,Cyprus,Europe,Southern/Medit. Europe,0
+2020,Jun,Cyprus,Europe,Southern/Medit. Europe,0
+2020,Jun,Croatia,Europe,Southern/Medit. Europe,0
+2020,Jun,Switzerland,Europe,Western Europe,0
+2020,Jun,Netherlands,Europe,Western Europe,0
+2020,Jun,Luxembourg,Europe,Western Europe,0
+2020,Jun,Germany,Europe,Western Europe,0
+2020,Jun,France,Europe,Western Europe,0
+2020,Jun,Belgium,Europe,Western Europe,0
+2020,Jun,Austria,Europe,Western Europe,0
+2020,Jun,United Kingdom,Europe,Northern Europe,0
+2020,Jun,Sweden,Europe,Northern Europe,0
+2020,Jun,Norway,Europe,Northern Europe,0
+2020,Jun,Ireland,Europe,Northern Europe,0
+2020,Jun,Iceland,Europe,Northern Europe,0
+2020,Jun,Finland,Europe,Northern Europe,0
+2020,Jun,Denmark,Europe,Northern Europe,0
+2020,Jun,Other in Oceania,Asia and the Pacific,Oceania,0
+2020,Jun,New Zealand,Asia and the Pacific,Oceania,0
+2020,Jun,Australia,Asia and the Pacific,Oceania,0
+2020,Jun,Sri Lanka,Asia and the Pacific,South Asia,0
+2020,Jun,Nepal,Asia and the Pacific,South Asia,0
+2020,Jun,Pakistan,Asia and the Pacific,South Asia,0
+2020,Jun,Maldives,Asia and the Pacific,South Asia,0
+2020,Jun,Iran,Asia and the Pacific,South Asia,0
+2020,Jun,India,Asia and the Pacific,South Asia,0
+2020,Jun,Bhutan,Asia and the Pacific,South Asia,0
+2020,Jun,Bangladesh,Asia and the Pacific,South Asia,0
+2020,Jun,Vietnam,Asia and the Pacific,South-East Asia,0
+2020,Jun,Singapore,Asia and the Pacific,South-East Asia,0
+2020,Jun,Philippines,Asia and the Pacific,South-East Asia,0
+2020,Jun,Myanmar,Asia and the Pacific,South-East Asia,0
+2020,Jun,Malaysia,Asia and the Pacific,South-East Asia,0
+2020,Jun,Laos,Asia and the Pacific,South-East Asia,0
+2020,Jun,Indonesia,Asia and the Pacific,South-East Asia,0
+2020,Jun,Cambodia,Asia and the Pacific,South-East Asia,0
+2020,Jun,Brunei,Asia and the Pacific,South-East Asia,0
+2020,Jun,Taiwan,Asia and the Pacific,North-East Asia,0
+2020,Jun,Mongolia,Asia and the Pacific,North-East Asia,0
+2020,Jun,Macao (China),Asia and the Pacific,North-East Asia,0
+2020,Jun,Korea (Republic of),Asia and the Pacific,North-East Asia,0
+2020,Jun,Chile,America,NULL,0
+2020,Jun,Brazil,America,NULL,0
+2020,Jun,Argentina,America,NULL,0
+2020,Jun,The United States of America,America,NULL,0
+2020,Jun,Mexico,America,NULL,0
+2020,Jun,Canada,America,NULL,0
+2020,Jun,Other in Middle East,Middle East,NULL,0
+2020,Jun,Yemen,Middle East,NULL,0
+2020,Jun,U.A.E.,Middle East,NULL,0
+2020,Jun,Saudi Arabia,Middle East,NULL,0
+2020,Jun,Qatar,Middle East,NULL,0
+2020,Jun,Oman,Middle East,NULL,0
+2020,Jun,Lebanon,Middle East,NULL,0
+2020,Jun,Kuwait,Middle East,NULL,0
+2020,Jun,Jordan,Middle East,NULL,0
+2020,Jun,Iraq,Middle East,NULL,0
+2020,Jun,Egypt,Middle East,NULL,0
+2020,Jun,Bahrain,Middle East,NULL,0
+2020,Jun,Uruguay,America,NULL,0
+2020,Jun,Colombia,America,NULL,0
+2020,Jun,Peru,America,NULL,0
+2020,Jun,Other in America,America,NULL,0
+2020,Jun,South  Africa,Africa,NULL,0
+2020,Jun,Morocco,Africa,NULL,0
+2020,Jun,Other in Asia,Asia and the Pacific,NULL,0
+2020,Jun,Other in Europe,Europe,NULL,0
+2020,Jun,Hong Kong (China),Asia and the Pacific,North-East Asia,0
+2020,Jun,China,Asia and the Pacific,North-East Asia,0
+2020,Jun,Other in Africa,Africa,NULL,0
+2020,Jun,Mauritius,Africa,NULL,0
+2020,Jun,Kenya,Africa,NULL,0
+2020,Jun,Ethiopia,Africa,NULL,0
+2020,Jun,Japan,Asia and the Pacific,North-East Asia,0
+2020,Jun,North Korea,Asia and the Pacific,North-East Asia,0
+2020,Jun,Lithuania,Europe,Central/Eastern Europe,0
+2020,Jun,Poland,Europe,Central/Eastern Europe,0
+2020,Jun,Latvia,Europe,Central/Eastern Europe,0
+2020,Jun,Kyrgyzstan,Europe,Central/Eastern Europe,0
+2020,Jun,Kazakhstan,Europe,Central/Eastern Europe,0
+2020,Jun,Hungary,Europe,Central/Eastern Europe,0
+2020,Jun,Estonia,Europe,Central/Eastern Europe,0
+2020,Jun,Czech Republic,Europe,Central/Eastern Europe,0
+2020,Jun,Bulgaria,Europe,Central/Eastern Europe,0
+2020,Jun,Belarus,Europe,Central/Eastern Europe,0
+2020,Jun,Turkey,Europe,Southern/Medit. Europe,0
+2020,Jun,Slovenia,Europe,Southern/Medit. Europe,0
+2020,Jun,Spain,Europe,Southern/Medit. Europe,0
+2020,Jun,Serbia,Europe,Southern/Medit. Europe,0
+2020,Jun,Portugal,Europe,Southern/Medit. Europe,0
+2020,Jun,Italy,Europe,Southern/Medit. Europe,0
+2020,Jun,Greece,Europe,Southern/Medit. Europe,0
+2020,Jun,Israel,Europe,Southern/Medit. Europe,0
+2020,Jun,Uzbekistan,Europe,Central/Eastern Europe,0
+2020,Jun,Slovakia,Europe,Central/Eastern Europe,0
+2020,Jun,Ukraine,Europe,Central/Eastern Europe,0
+2020,Jun,Russian Federation,Europe,Central/Eastern Europe,0
+2020,Jun,Romania,Europe,Central/Eastern Europe,0
+2020,Mar,China,Asia and the Pacific,North-East Asia,56852
+2020,Mar,Macao (China),Asia and the Pacific,North-East Asia,97
+2020,Mar,Korea (Republic of),Asia and the Pacific,North-East Asia,8451
+2020,Mar,Japan,Asia and the Pacific,North-East Asia,26456
+2020,Mar,Hong Kong (China),Asia and the Pacific,North-East Asia,10037
+2020,Mar,Cambodia,Asia and the Pacific,South-East Asia,29476
+2020,Mar,Indonesia,Asia and the Pacific,South-East Asia,11191
+2020,Mar,Brunei,Asia and the Pacific,South-East Asia,126
+2020,Mar,Sri Lanka,Asia and the Pacific,South Asia,1032
+2020,Mar,Pakistan,Asia and the Pacific,South Asia,1733
+2020,Mar,Nepal,Asia and the Pacific,South Asia,900
+2020,Mar,Maldives,Asia and the Pacific,South Asia,535
+2020,Mar,Iran,Asia and the Pacific,South Asia,169
+2020,Mar,India,Asia and the Pacific,South Asia,15456
+2020,Mar,Bhutan,Asia and the Pacific,South Asia,279
+2020,Mar,Bangladesh,Asia and the Pacific,South Asia,1785
+2020,Mar,Other in Oceania,Asia and the Pacific,Oceania,68
+2020,Mar,New Zealand,Asia and the Pacific,Oceania,2360
+2020,Mar,Australia,Asia and the Pacific,Oceania,19078
+2020,Mar,Taiwan,Asia and the Pacific,North-East Asia,3588
+2020,Mar,Mongolia,Asia and the Pacific,North-East Asia,695
+2020,Mar,North Korea,Asia and the Pacific,North-East Asia,0
+2020,Mar,Ireland,Europe,Northern Europe,2392
+2020,Mar,Iceland,Europe,Northern Europe,167
+2020,Mar,Finland,Europe,Northern Europe,9406
+2020,Mar,Denmark,Europe,Northern Europe,8519
+2020,Mar,Turkey,Europe,Southern/Medit. Europe,1906
+2020,Mar,Spain,Europe,Southern/Medit. Europe,4348
+2020,Mar,Slovenia,Europe,Southern/Medit. Europe,244
+2020,Mar,Serbia,Europe,Southern/Medit. Europe,158
+2020,Mar,Portugal,Europe,Southern/Medit. Europe,1172
+2020,Mar,Italy,Europe,Southern/Medit. Europe,3666
+2020,Mar,Israel,Europe,Southern/Medit. Europe,1897
+2020,Mar,Greece,Europe,Southern/Medit. Europe,502
+2020,Mar,Cyprus,Europe,Southern/Medit. Europe,94
+2020,Mar,Croatia,Europe,Southern/Medit. Europe,163
+2020,Mar,Uzbekistan,Europe,Central/Eastern Europe,984
+2020,Mar,Ukraine,Europe,Central/Eastern Europe,2192
+2020,Mar,Slovakia,Europe,Central/Eastern Europe,1072
+2020,Mar,Russian Federation,Europe,Central/Eastern Europe,117355
+2020,Mar,Romania,Europe,Central/Eastern Europe,1610
+2020,Mar,Poland,Europe,Central/Eastern Europe,5617
+2020,Mar,Lithuania,Europe,Central/Eastern Europe,1053
+2020,Mar,Latvia,Europe,Central/Eastern Europe,540
+2020,Mar,Kyrgyzstan,Europe,Central/Eastern Europe,149
+2020,Mar,Kazakhstan,Europe,Central/Eastern Europe,6752
+2020,Mar,Hungary,Europe,Central/Eastern Europe,1189
+2020,Mar,Estonia,Europe,Central/Eastern Europe,957
+2020,Mar,Czech Republic,Europe,Central/Eastern Europe,2030
+2020,Mar,Bulgaria,Europe,Central/Eastern Europe,538
+2020,Mar,Belarus,Europe,Central/Eastern Europe,345
+2020,Mar,Other in Middle East,Middle East,NULL,30
+2020,Mar,Yemen,Middle East,NULL,38
+2020,Mar,U.A.E.,Middle East,NULL,8
+2020,Mar,Saudi Arabia,Middle East,NULL,56
+2020,Mar,Qatar,Middle East,NULL,197
+2020,Mar,Oman,Middle East,NULL,301
+2020,Mar,Lebanon,Middle East,NULL,14
+2020,Mar,Kuwait,Middle East,NULL,109
+2020,Mar,Jordan,Middle East,NULL,48
+2020,Mar,Egypt,Middle East,NULL,236
+2020,Mar,Iraq,Middle East,NULL,17
+2020,Mar,Bahrain,Middle East,NULL,91
+2020,Mar,Other in Africa,Africa,NULL,672
+2020,Mar,Other in Asia,Asia and the Pacific,NULL,23
+2020,Mar,Mauritius,Africa,NULL,264
+2020,Mar,Kenya,Africa,NULL,137
+2020,Mar,South  Africa,Africa,NULL,1896
+2020,Mar,Ethiopia,Africa,NULL,349
+2020,Mar,Morocco,Africa,NULL,226
+2020,Mar,Peru,America,NULL,297
+2020,Mar,Uruguay,America,NULL,78
+2020,Mar,Other in America,America,NULL,475
+2020,Mar,Colombia,America,NULL,421
+2020,Mar,Chile,America,NULL,533
+2020,Mar,Argentina,America,NULL,2508
+2020,Mar,Brazil,America,NULL,3350
+2020,Mar,The United States of America,America,NULL,24151
+2020,Mar,Canada,America,NULL,7615
+2020,Mar,Mexico,America,NULL,1224
+2020,Mar,Singapore,Asia and the Pacific,South-East Asia,14741
+2020,Mar,Vietnam,Asia and the Pacific,South-East Asia,17382
+2020,Mar,Philippines,Asia and the Pacific,South-East Asia,9488
+2020,Mar,Myanmar,Asia and the Pacific,South-East Asia,8237
+2020,Mar,Malaysia,Asia and the Pacific,South-East Asia,94813
+2020,Mar,Laos,Asia and the Pacific,South-East Asia,86025
+2020,Mar,Other in Europe,Europe,NULL,403
+2020,Mar,Switzerland,Europe,Western Europe,8301
+2020,Mar,Netherlands,Europe,Western Europe,9189
+2020,Mar,Luxembourg,Europe,Western Europe,180
+2020,Mar,Germany,Europe,Western Europe,48160
+2020,Mar,France,Europe,Western Europe,39859
+2020,Mar,Belgium,Europe,Western Europe,5256
+2020,Mar,Austria,Europe,Western Europe,5179
+2020,Mar,United Kingdom,Europe,Northern Europe,40070
+2020,Mar,Norway,Europe,Northern Europe,5109
+2020,Mar,Sweden,Europe,Northern Europe,14291
+2020,May,North Korea,Asia and the Pacific,North-East Asia,0
+2020,May,Japan,Asia and the Pacific,North-East Asia,0
+2020,May,Kenya,Africa,NULL,0
+2020,May,Mauritius,Africa,NULL,0
+2020,May,Other in Africa,Africa,NULL,0
+2020,May,China,Asia and the Pacific,North-East Asia,0
+2020,May,Hong Kong (China),Asia and the Pacific,North-East Asia,0
+2020,May,Other in Europe,Europe,NULL,0
+2020,May,Other in Asia,Asia and the Pacific,NULL,0
+2020,May,Morocco,Africa,NULL,0
+2020,May,South  Africa,Africa,NULL,0
+2020,May,Ethiopia,Africa,NULL,0
+2020,May,Other in America,America,NULL,0
+2020,May,Peru,America,NULL,0
+2020,May,Uruguay,America,NULL,0
+2020,May,Bahrain,Middle East,NULL,0
+2020,May,Egypt,Middle East,NULL,0
+2020,May,Iraq,Middle East,NULL,0
+2020,May,Jordan,Middle East,NULL,0
+2020,May,Kuwait,Middle East,NULL,0
+2020,May,Lebanon,Middle East,NULL,0
+2020,May,Oman,Middle East,NULL,0
+2020,May,Qatar,Middle East,NULL,0
+2020,May,Saudi Arabia,Middle East,NULL,0
+2020,May,U.A.E.,Middle East,NULL,0
+2020,May,Yemen,Middle East,NULL,0
+2020,May,Other in Middle East,Middle East,NULL,0
+2020,May,Canada,America,NULL,0
+2020,May,Mexico,America,NULL,0
+2020,May,The United States of America,America,NULL,0
+2020,May,Argentina,America,NULL,0
+2020,May,Brazil,America,NULL,0
+2020,May,Chile,America,NULL,0
+2020,May,Colombia,America,NULL,0
+2020,May,Korea (Republic of),Asia and the Pacific,North-East Asia,0
+2020,May,Macao (China),Asia and the Pacific,North-East Asia,0
+2020,May,Mongolia,Asia and the Pacific,North-East Asia,0
+2020,May,Taiwan,Asia and the Pacific,North-East Asia,0
+2020,May,Brunei,Asia and the Pacific,South-East Asia,0
+2020,May,Cambodia,Asia and the Pacific,South-East Asia,0
+2020,May,Indonesia,Asia and the Pacific,South-East Asia,0
+2020,May,Laos,Asia and the Pacific,South-East Asia,0
+2020,May,Malaysia,Asia and the Pacific,South-East Asia,0
+2020,May,Myanmar,Asia and the Pacific,South-East Asia,0
+2020,May,Philippines,Asia and the Pacific,South-East Asia,0
+2020,May,Singapore,Asia and the Pacific,South-East Asia,0
+2020,May,Vietnam,Asia and the Pacific,South-East Asia,0
+2020,May,Bangladesh,Asia and the Pacific,South Asia,0
+2020,May,Bhutan,Asia and the Pacific,South Asia,0
+2020,May,India,Asia and the Pacific,South Asia,0
+2020,May,Iran,Asia and the Pacific,South Asia,0
+2020,May,Maldives,Asia and the Pacific,South Asia,0
+2020,May,Nepal,Asia and the Pacific,South Asia,0
+2020,May,Pakistan,Asia and the Pacific,South Asia,0
+2020,May,Sri Lanka,Asia and the Pacific,South Asia,0
+2020,May,Australia,Asia and the Pacific,Oceania,0
+2020,May,New Zealand,Asia and the Pacific,Oceania,0
+2020,May,Other in Oceania,Asia and the Pacific,Oceania,0
+2020,May,Denmark,Europe,Northern Europe,0
+2020,May,Finland,Europe,Northern Europe,0
+2020,May,Iceland,Europe,Northern Europe,0
+2020,May,Ireland,Europe,Northern Europe,0
+2020,May,Norway,Europe,Northern Europe,0
+2020,May,Sweden,Europe,Northern Europe,0
+2020,May,United Kingdom,Europe,Northern Europe,0
+2020,May,Austria,Europe,Western Europe,0
+2020,May,Belgium,Europe,Western Europe,0
+2020,May,France,Europe,Western Europe,0
+2020,May,Germany,Europe,Western Europe,0
+2020,May,Luxembourg,Europe,Western Europe,0
+2020,May,Netherlands,Europe,Western Europe,0
+2020,May,Switzerland,Europe,Western Europe,0
+2020,May,Croatia,Europe,Southern/Medit. Europe,0
+2020,May,Cyprus,Europe,Southern/Medit. Europe,0
+2020,May,Romania,Europe,Central/Eastern Europe,0
+2020,May,Russian Federation,Europe,Central/Eastern Europe,0
+2020,May,Slovakia,Europe,Central/Eastern Europe,0
+2020,May,Ukraine,Europe,Central/Eastern Europe,0
+2020,May,Uzbekistan,Europe,Central/Eastern Europe,0
+2020,May,Israel,Europe,Southern/Medit. Europe,0
+2020,May,Greece,Europe,Southern/Medit. Europe,0
+2020,May,Italy,Europe,Southern/Medit. Europe,0
+2020,May,Portugal,Europe,Southern/Medit. Europe,0
+2020,May,Serbia,Europe,Southern/Medit. Europe,0
+2020,May,Slovenia,Europe,Southern/Medit. Europe,0
+2020,May,Spain,Europe,Southern/Medit. Europe,0
+2020,May,Turkey,Europe,Southern/Medit. Europe,0
+2020,May,Belarus,Europe,Central/Eastern Europe,0
+2020,May,Bulgaria,Europe,Central/Eastern Europe,0
+2020,May,Czech Republic,Europe,Central/Eastern Europe,0
+2020,May,Estonia,Europe,Central/Eastern Europe,0
+2020,May,Hungary,Europe,Central/Eastern Europe,0
+2020,May,Kazakhstan,Europe,Central/Eastern Europe,0
+2020,May,Kyrgyzstan,Europe,Central/Eastern Europe,0
+2020,May,Latvia,Europe,Central/Eastern Europe,0
+2020,May,Poland,Europe,Central/Eastern Europe,0
+2020,May,Lithuania,Europe,Central/Eastern Europe,0
+2020,Nov,Latvia,Europe,Central/Eastern Europe,0
+2020,Nov,Kyrgyzstan,Europe,Central/Eastern Europe,0
+2020,Nov,Bulgaria,Europe,Central/Eastern Europe,0
+2020,Nov,Belarus,Europe,Central/Eastern Europe,0
+2020,Nov,Serbia,Europe,Southern/Medit. Europe,0
+2020,Nov,Cyprus,Europe,Southern/Medit. Europe,0
+2020,Nov,China,Asia and the Pacific,North-East Asia,914
+2020,Nov,Hong Kong (China),Asia and the Pacific,North-East Asia,52
+2020,Nov,Japan,Asia and the Pacific,North-East Asia,87
+2020,Nov,Korea (Republic of),Asia and the Pacific,North-East Asia,96
+2020,Nov,Mongolia,Asia and the Pacific,North-East Asia,3
+2020,Nov,Taiwan,Asia and the Pacific,North-East Asia,54
+2020,Nov,Australia,Asia and the Pacific,Oceania,76
+2020,Nov,New Zealand,Asia and the Pacific,Oceania,19
+2020,Nov,Other in Oceania,Asia and the Pacific,Oceania,2
+2020,Nov,Bhutan,Asia and the Pacific,South Asia,1
+2020,Nov,Bangladesh,Asia and the Pacific,South Asia,1
+2020,Nov,India,Asia and the Pacific,South Asia,20
+2020,Nov,Maldives,Asia and the Pacific,South Asia,1
+2020,Nov,Iran,Asia and the Pacific,South Asia,3
+2020,Nov,Pakistan,Asia and the Pacific,South Asia,6
+2020,Nov,Indonesia,Asia and the Pacific,South-East Asia,6
+2020,Nov,Cambodia,Asia and the Pacific,South-East Asia,257
+2020,Nov,Croatia,Europe,Southern/Medit. Europe,0
+2020,Nov,Luxembourg,Europe,Western Europe,0
+2020,Nov,Iceland,Europe,Northern Europe,0
+2020,Nov,Sri Lanka,Asia and the Pacific,South Asia,0
+2020,Nov,Nepal,Asia and the Pacific,South Asia,0
+2020,Nov,Brunei,Asia and the Pacific,South-East Asia,0
+2020,Nov,Macao (China),Asia and the Pacific,North-East Asia,0
+2020,Nov,Argentina,America,NULL,0
+2020,Nov,Other in Middle East,Middle East,NULL,0
+2020,Nov,Lebanon,Middle East,NULL,0
+2020,Nov,Iraq,Middle East,NULL,0
+2020,Nov,Uruguay,America,NULL,0
+2020,Nov,Other in Asia,Asia and the Pacific,NULL,0
+2020,Nov,North Korea,Asia and the Pacific,North-East Asia,0
+2020,Nov,Laos,Asia and the Pacific,South-East Asia,7
+2020,Nov,Myanmar,Asia and the Pacific,South-East Asia,1
+2020,Nov,Malaysia,Asia and the Pacific,South-East Asia,14
+2020,Nov,Philippines,Asia and the Pacific,South-East Asia,11
+2020,Nov,Vietnam,Asia and the Pacific,South-East Asia,16
+2020,Nov,Singapore,Asia and the Pacific,South-East Asia,64
+2020,Nov,Mexico,America,NULL,2
+2020,Nov,Canada,America,NULL,73
+2020,Nov,The United States of America,America,NULL,133
+2020,Nov,Brazil,America,NULL,2
+2020,Nov,Chile,America,NULL,1
+2020,Nov,Colombia,America,NULL,1
+2020,Nov,Other in America,America,NULL,1
+2020,Nov,Peru,America,NULL,1
+2020,Nov,Morocco,Africa,NULL,2
+2020,Nov,Ethiopia,Africa,NULL,3
+2020,Nov,South  Africa,Africa,NULL,3
+2020,Nov,Kenya,Africa,NULL,1
+2020,Nov,Mauritius,Africa,NULL,2
+2020,Nov,Other in Africa,Africa,NULL,5
+2020,Nov,Bahrain,Middle East,NULL,1
+2020,Nov,Egypt,Middle East,NULL,4
+2020,Nov,Kuwait,Middle East,NULL,93
+2020,Nov,Jordan,Middle East,NULL,1
+2020,Nov,Qatar,Middle East,NULL,3
+2020,Nov,Oman,Middle East,NULL,5
+2020,Nov,Saudi Arabia,Middle East,NULL,3
+2020,Nov,U.A.E.,Middle East,NULL,23
+2020,Nov,Yemen,Middle East,NULL,1
+2020,Nov,Czech Republic,Europe,Central/Eastern Europe,2
+2020,Nov,Estonia,Europe,Central/Eastern Europe,1
+2020,Nov,Hungary,Europe,Central/Eastern Europe,1
+2020,Nov,Kazakhstan,Europe,Central/Eastern Europe,6
+2020,Nov,Lithuania,Europe,Central/Eastern Europe,1
+2020,Nov,Poland,Europe,Central/Eastern Europe,5
+2020,Nov,Romania,Europe,Central/Eastern Europe,1
+2020,Nov,Russian Federation,Europe,Central/Eastern Europe,9
+2020,Nov,Slovakia,Europe,Central/Eastern Europe,1
+2020,Nov,Ukraine,Europe,Central/Eastern Europe,2
+2020,Nov,Uzbekistan,Europe,Central/Eastern Europe,1
+2020,Nov,Greece,Europe,Southern/Medit. Europe,1
+2020,Nov,Israel,Europe,Southern/Medit. Europe,11
+2020,Nov,Italy,Europe,Southern/Medit. Europe,10
+2020,Nov,Portugal,Europe,Southern/Medit. Europe,3
+2020,Nov,Slovenia,Europe,Southern/Medit. Europe,1
+2020,Nov,Spain,Europe,Southern/Medit. Europe,13
+2020,Nov,Denmark,Europe,Northern Europe,50
+2020,Nov,Turkey,Europe,Southern/Medit. Europe,4
+2020,Nov,Finland,Europe,Northern Europe,55
+2020,Nov,Ireland,Europe,Northern Europe,5
+2020,Nov,Norway,Europe,Northern Europe,41
+2020,Nov,United Kingdom,Europe,Northern Europe,163
+2020,Nov,Sweden,Europe,Northern Europe,94
+2020,Nov,Austria,Europe,Western Europe,43
+2020,Nov,Belgium,Europe,Western Europe,11
+2020,Nov,France,Europe,Western Europe,82
+2020,Nov,Germany,Europe,Western Europe,233
+2020,Nov,Netherlands,Europe,Western Europe,30
+2020,Nov,Switzerland,Europe,Western Europe,106
+2020,Nov,Other in Europe,Europe,NULL,1
+2020,Oct,Switzerland,Europe,Western Europe,11
+2020,Oct,Netherlands,Europe,Western Europe,1
+2020,Oct,Germany,Europe,Western Europe,26
+2020,Oct,France,Europe,Western Europe,15
+2020,Oct,Belgium,Europe,Western Europe,1
+2020,Oct,Austria,Europe,Western Europe,2
+2020,Oct,United Kingdom,Europe,Northern Europe,27
+2020,Oct,Sweden,Europe,Northern Europe,4
+2020,Oct,Norway,Europe,Northern Europe,5
+2020,Oct,Ireland,Europe,Northern Europe,1
+2020,Oct,Denmark,Europe,Northern Europe,1
+2020,Oct,Finland,Europe,Northern Europe,4
+2020,Oct,Spain,Europe,Southern/Medit. Europe,2
+2020,Oct,Turkey,Europe,Southern/Medit. Europe,1
+2020,Oct,Italy,Europe,Southern/Medit. Europe,3
+2020,Oct,Portugal,Europe,Southern/Medit. Europe,1
+2020,Oct,Russian Federation,Europe,Central/Eastern Europe,5
+2020,Oct,Poland,Europe,Central/Eastern Europe,1
+2020,Oct,Kazakhstan,Europe,Central/Eastern Europe,1
+2020,Oct,Yemen,Middle East,NULL,4
+2020,Oct,Other in Middle East,Middle East,NULL,3
+2020,Oct,Qatar,Middle East,NULL,19
+2020,Oct,Lebanon,Middle East,NULL,1
+2020,Oct,Oman,Middle East,NULL,30
+2020,Oct,Kuwait,Middle East,NULL,89
+2020,Oct,Jordan,Middle East,NULL,5
+2020,Oct,Iraq,Middle East,NULL,2
+2020,Oct,Bahrain,Middle East,NULL,9
+2020,Oct,Other in Africa,Africa,NULL,18
+2020,Oct,Mauritius,Africa,NULL,7
+2020,Oct,Kenya,Africa,NULL,4
+2020,Oct,Ethiopia,Africa,NULL,10
+2020,Oct,Morocco,Africa,NULL,6
+2020,Oct,Brazil,America,NULL,1
+2020,Oct,The United States of America,America,NULL,23
+2020,Oct,Canada,America,NULL,10
+2020,Oct,Vietnam,Asia and the Pacific,South-East Asia,7
+2020,Oct,Singapore,Asia and the Pacific,South-East Asia,9
+2020,Oct,Philippines,Asia and the Pacific,South-East Asia,2
+2020,Oct,Laos,Asia and the Pacific,South-East Asia,1
+2020,Oct,Malaysia,Asia and the Pacific,South-East Asia,2
+2020,Oct,North Korea,Asia and the Pacific,North-East Asia,0
+2020,Oct,South  Africa,Africa,NULL,0
+2020,Oct,Other in Asia,Asia and the Pacific,NULL,0
+2020,Oct,Other in Europe,Europe,NULL,0
+2020,Oct,Uruguay,America,NULL,0
+2020,Oct,Other in America,America,NULL,0
+2020,Oct,Peru,America,NULL,0
+2020,Oct,Colombia,America,NULL,0
+2020,Oct,Egypt,Middle East,NULL,0
+2020,Oct,Saudi Arabia,Middle East,NULL,0
+2020,Oct,U.A.E.,Middle East,NULL,0
+2020,Oct,Chile,America,NULL,0
+2020,Oct,Argentina,America,NULL,0
+2020,Oct,Mexico,America,NULL,0
+2020,Oct,Macao (China),Asia and the Pacific,North-East Asia,0
+2020,Oct,Brunei,Asia and the Pacific,South-East Asia,0
+2020,Oct,Indonesia,Asia and the Pacific,South-East Asia,0
+2020,Oct,Myanmar,Asia and the Pacific,South-East Asia,0
+2020,Oct,Iceland,Europe,Northern Europe,0
+2020,Oct,Luxembourg,Europe,Western Europe,0
+2020,Oct,Croatia,Europe,Southern/Medit. Europe,0
+2020,Oct,Cambodia,Asia and the Pacific,South-East Asia,231
+2020,Oct,Sri Lanka,Asia and the Pacific,South Asia,1
+2020,Oct,Maldives,Asia and the Pacific,South Asia,3
+2020,Oct,Iran,Asia and the Pacific,South Asia,17
+2020,Oct,Nepal,Asia and the Pacific,South Asia,1
+2020,Oct,Pakistan,Asia and the Pacific,South Asia,1
+2020,Oct,Bhutan,Asia and the Pacific,South Asia,1
+2020,Oct,India,Asia and the Pacific,South Asia,5
+2020,Oct,Other in Oceania,Asia and the Pacific,Oceania,1
+2020,Oct,Bangladesh,Asia and the Pacific,South Asia,2
+2020,Oct,New Zealand,Asia and the Pacific,Oceania,4
+2020,Oct,Australia,Asia and the Pacific,Oceania,9
+2020,Oct,Taiwan,Asia and the Pacific,North-East Asia,12
+2020,Oct,Mongolia,Asia and the Pacific,North-East Asia,3
+2020,Oct,Korea (Republic of),Asia and the Pacific,North-East Asia,10
+2020,Oct,Japan,Asia and the Pacific,North-East Asia,35
+2020,Oct,Hong Kong (China),Asia and the Pacific,North-East Asia,16
+2020,Oct,China,Asia and the Pacific,North-East Asia,471
+2020,Oct,Uzbekistan,Europe,Central/Eastern Europe,0
+2020,Oct,Ukraine,Europe,Central/Eastern Europe,0
+2020,Oct,Slovakia,Europe,Central/Eastern Europe,0
+2020,Oct,Romania,Europe,Central/Eastern Europe,0
+2020,Oct,Cyprus,Europe,Southern/Medit. Europe,0
+2020,Oct,Greece,Europe,Southern/Medit. Europe,0
+2020,Oct,Israel,Europe,Southern/Medit. Europe,0
+2020,Oct,Serbia,Europe,Southern/Medit. Europe,0
+2020,Oct,Slovenia,Europe,Southern/Medit. Europe,0
+2020,Oct,Belarus,Europe,Central/Eastern Europe,0
+2020,Oct,Bulgaria,Europe,Central/Eastern Europe,0
+2020,Oct,Czech Republic,Europe,Central/Eastern Europe,0
+2020,Oct,Hungary,Europe,Central/Eastern Europe,0
+2020,Oct,Estonia,Europe,Central/Eastern Europe,0
+2020,Oct,Kyrgyzstan,Europe,Central/Eastern Europe,0
+2020,Oct,Latvia,Europe,Central/Eastern Europe,0
+2020,Oct,Lithuania,Europe,Central/Eastern Europe,0
+2020,Sep,Poland,Europe,Central/Eastern Europe,0
+2020,Sep,Lithuania,Europe,Central/Eastern Europe,0
+2020,Sep,Latvia,Europe,Central/Eastern Europe,0
+2020,Sep,Kyrgyzstan,Europe,Central/Eastern Europe,0
+2020,Sep,Kazakhstan,Europe,Central/Eastern Europe,0
+2020,Sep,Hungary,Europe,Central/Eastern Europe,0
+2020,Sep,Estonia,Europe,Central/Eastern Europe,0
+2020,Sep,Czech Republic,Europe,Central/Eastern Europe,0
+2020,Sep,Bulgaria,Europe,Central/Eastern Europe,0
+2020,Sep,Belarus,Europe,Central/Eastern Europe,0
+2020,Sep,Spain,Europe,Southern/Medit. Europe,0
+2020,Sep,Turkey,Europe,Southern/Medit. Europe,0
+2020,Sep,Slovenia,Europe,Southern/Medit. Europe,0
+2020,Sep,Serbia,Europe,Southern/Medit. Europe,0
+2020,Sep,Italy,Europe,Southern/Medit. Europe,0
+2020,Sep,Portugal,Europe,Southern/Medit. Europe,0
+2020,Sep,Israel,Europe,Southern/Medit. Europe,0
+2020,Sep,Greece,Europe,Southern/Medit. Europe,0
+2020,Sep,Cyprus,Europe,Southern/Medit. Europe,0
+2020,Sep,Romania,Europe,Central/Eastern Europe,0
+2020,Sep,Russian Federation,Europe,Central/Eastern Europe,0
+2020,Sep,Slovakia,Europe,Central/Eastern Europe,0
+2020,Sep,Ukraine,Europe,Central/Eastern Europe,0
+2020,Sep,Uzbekistan,Europe,Central/Eastern Europe,0
+2020,Sep,Croatia,Europe,Southern/Medit. Europe,0
+2020,Sep,Switzerland,Europe,Western Europe,0
+2020,Sep,Luxembourg,Europe,Western Europe,0
+2020,Sep,Netherlands,Europe,Western Europe,0
+2020,Sep,France,Europe,Western Europe,0
+2020,Sep,Germany,Europe,Western Europe,0
+2020,Sep,Belgium,Europe,Western Europe,0
+2020,Sep,Austria,Europe,Western Europe,0
+2020,Sep,Sweden,Europe,Northern Europe,0
+2020,Sep,United Kingdom,Europe,Northern Europe,0
+2020,Sep,Iceland,Europe,Northern Europe,0
+2020,Sep,Denmark,Europe,Northern Europe,0
+2020,Sep,Finland,Europe,Northern Europe,0
+2020,Sep,Norway,Europe,Northern Europe,0
+2020,Sep,Ireland,Europe,Northern Europe,0
+2020,Sep,Australia,Asia and the Pacific,Oceania,0
+2020,Sep,Pakistan,Asia and the Pacific,South Asia,0
+2020,Sep,Sri Lanka,Asia and the Pacific,South Asia,0
+2020,Sep,Other in Oceania,Asia and the Pacific,Oceania,0
+2020,Sep,New Zealand,Asia and the Pacific,Oceania,0
+2020,Sep,Myanmar,Asia and the Pacific,South-East Asia,0
+2020,Sep,Philippines,Asia and the Pacific,South-East Asia,0
+2020,Sep,Bangladesh,Asia and the Pacific,South Asia,0
+2020,Sep,Singapore,Asia and the Pacific,South-East Asia,0
+2020,Sep,Vietnam,Asia and the Pacific,South-East Asia,0
+2020,Sep,Nepal,Asia and the Pacific,South Asia,0
+2020,Sep,Maldives,Asia and the Pacific,South Asia,0
+2020,Sep,India,Asia and the Pacific,South Asia,0
+2020,Sep,Iran,Asia and the Pacific,South Asia,0
+2020,Sep,Bhutan,Asia and the Pacific,South Asia,0
+2020,Sep,Laos,Asia and the Pacific,South-East Asia,0
+2020,Sep,Indonesia,Asia and the Pacific,South-East Asia,0
+2020,Sep,Malaysia,Asia and the Pacific,South-East Asia,0
+2020,Sep,Brunei,Asia and the Pacific,South-East Asia,0
+2020,Sep,Cambodia,Asia and the Pacific,South-East Asia,0
+2020,Sep,Macao (China),Asia and the Pacific,North-East Asia,0
+2020,Sep,Korea (Republic of),Asia and the Pacific,North-East Asia,0
+2020,Sep,Taiwan,Asia and the Pacific,North-East Asia,0
+2020,Sep,Mongolia,Asia and the Pacific,North-East Asia,0
+2020,Sep,The United States of America,America,NULL,0
+2020,Sep,Mexico,America,NULL,0
+2020,Sep,Argentina,America,NULL,0
+2020,Sep,Chile,America,NULL,0
+2020,Sep,Brazil,America,NULL,0
+2020,Sep,U.A.E.,Middle East,NULL,0
+2020,Sep,Yemen,Middle East,NULL,0
+2020,Sep,Other in Middle East,Middle East,NULL,0
+2020,Sep,Canada,America,NULL,0
+2020,Sep,Saudi Arabia,Middle East,NULL,0
+2020,Sep,Qatar,Middle East,NULL,0
+2020,Sep,Oman,Middle East,NULL,0
+2020,Sep,Kuwait,Middle East,NULL,0
+2020,Sep,Lebanon,Middle East,NULL,0
+2020,Sep,Egypt,Middle East,NULL,0
+2020,Sep,Bahrain,Middle East,NULL,0
+2020,Sep,Iraq,Middle East,NULL,0
+2020,Sep,Jordan,Middle East,NULL,0
+2020,Sep,Colombia,America,NULL,0
+2020,Sep,Peru,America,NULL,0
+2020,Sep,Other in America,America,NULL,0
+2020,Sep,Uruguay,America,NULL,0
+2020,Sep,Morocco,Africa,NULL,0
+2020,Sep,South  Africa,Africa,NULL,0
+2020,Sep,Other in Europe,Europe,NULL,0
+2020,Sep,Other in Asia,Asia and the Pacific,NULL,0
+2020,Sep,Ethiopia,Africa,NULL,0
+2020,Sep,Kenya,Africa,NULL,0
+2020,Sep,Mauritius,Africa,NULL,0
+2020,Sep,China,Asia and the Pacific,North-East Asia,0
+2020,Sep,Other in Africa,Africa,NULL,0
+2020,Sep,North Korea,Asia and the Pacific,North-East Asia,0
+2020,Sep,Hong Kong (China),Asia and the Pacific,North-East Asia,0
+2020,Sep,Japan,Asia and the Pacific,North-East Asia,0
+2021,Apr,North Korea,Asia and the Pacific,North-East Asia,0
+2021,Apr,Other in Asia,Asia and the Pacific,NULL,0
+2021,Apr,China,Asia and the Pacific,North-East Asia,643
+2021,Apr,Hong Kong (China),Asia and the Pacific,North-East Asia,110
+2021,Apr,Japan,Asia and the Pacific,North-East Asia,304
+2021,Apr,Korea (Republic of),Asia and the Pacific,North-East Asia,373
+2021,Apr,Macao (China),Asia and the Pacific,North-East Asia,1
+2021,Apr,Mongolia,Asia and the Pacific,North-East Asia,8
+2021,Apr,Taiwan,Asia and the Pacific,North-East Asia,98
+2021,Apr,Australia,Asia and the Pacific,Oceania,179
+2021,Apr,New Zealand,Asia and the Pacific,Oceania,57
+2021,Apr,Other in Oceania,Asia and the Pacific,Oceania,3
+2021,Apr,Bhutan,Asia and the Pacific,South Asia,7
+2021,Apr,Bangladesh,Asia and the Pacific,South Asia,49
+2021,Apr,India,Asia and the Pacific,South Asia,103
+2021,Apr,Pakistan,Asia and the Pacific,South Asia,45
+2021,Apr,Nepal,Asia and the Pacific,South Asia,7
+2021,Apr,Iran,Asia and the Pacific,South Asia,26
+2021,Apr,Maldives,Asia and the Pacific,South Asia,14
+2021,Apr,Sri Lanka,Asia and the Pacific,South Asia,12
+2021,Apr,Cambodia,Asia and the Pacific,South-East Asia,79
+2021,Apr,Brunei,Asia and the Pacific,South-East Asia,1
+2021,Apr,Indonesia,Asia and the Pacific,South-East Asia,92
+2021,Apr,Laos,Asia and the Pacific,South-East Asia,19
+2021,Apr,Malaysia,Asia and the Pacific,South-East Asia,190
+2021,Apr,Philippines,Asia and the Pacific,South-East Asia,83
+2021,Apr,Myanmar,Asia and the Pacific,South-East Asia,418
+2021,Apr,Singapore,Asia and the Pacific,South-East Asia,89
+2021,Apr,Vietnam,Asia and the Pacific,South-East Asia,71
+2021,Apr,Canada,America,NULL,186
+2021,Apr,Mexico,America,NULL,12
+2021,Apr,The United States of America,America,NULL,1172
+2021,Apr,Argentina,America,NULL,8
+2021,Apr,Chile,America,NULL,5
+2021,Apr,Brazil,America,NULL,68
+2021,Apr,Uruguay,America,NULL,1
+2021,Apr,Other in America,America,NULL,5
+2021,Apr,Peru,America,NULL,3
+2021,Apr,Colombia,America,NULL,4
+2021,Apr,Morocco,Africa,NULL,13
+2021,Apr,South  Africa,Africa,NULL,103
+2021,Apr,Kenya,Africa,NULL,8
+2021,Apr,Ethiopia,Africa,NULL,21
+2021,Apr,Mauritius,Africa,NULL,16
+2021,Apr,Other in Africa,Africa,NULL,40
+2021,Apr,Bahrain,Middle East,NULL,14
+2021,Apr,Jordan,Middle East,NULL,7
+2021,Apr,Iraq,Middle East,NULL,3
+2021,Apr,Egypt,Middle East,NULL,13
+2021,Apr,Kuwait,Middle East,NULL,103
+2021,Apr,Qatar,Middle East,NULL,31
+2021,Apr,Oman,Middle East,NULL,47
+2021,Apr,Lebanon,Middle East,NULL,2
+2021,Apr,Saudi Arabia,Middle East,NULL,4
+2021,Apr,U.A.E.,Middle East,NULL,49
+2021,Apr,Belarus,Europe,Central/Eastern Europe,4
+2021,Apr,Bulgaria,Europe,Central/Eastern Europe,6
+2021,Apr,Other in Middle East,Middle East,NULL,5
+2021,Apr,Yemen,Middle East,NULL,6
+2021,Apr,Kazakhstan,Europe,Central/Eastern Europe,72
+2021,Apr,Hungary,Europe,Central/Eastern Europe,13
+2021,Apr,Estonia,Europe,Central/Eastern Europe,10
+2021,Apr,Czech Republic,Europe,Central/Eastern Europe,22
+2021,Apr,Kyrgyzstan,Europe,Central/Eastern Europe,2
+2021,Apr,Latvia,Europe,Central/Eastern Europe,6
+2021,Apr,Poland,Europe,Central/Eastern Europe,60
+2021,Apr,Lithuania,Europe,Central/Eastern Europe,11
+2021,Apr,Romania,Europe,Central/Eastern Europe,17
+2021,Apr,Russian Federation,Europe,Central/Eastern Europe,346
+2021,Apr,Slovakia,Europe,Central/Eastern Europe,11
+2021,Apr,Ukraine,Europe,Central/Eastern Europe,23
+2021,Apr,Serbia,Europe,Southern/Medit. Europe,3
+2021,Apr,Portugal,Europe,Southern/Medit. Europe,22
+2021,Apr,Italy,Europe,Southern/Medit. Europe,120
+2021,Apr,Israel,Europe,Southern/Medit. Europe,169
+2021,Apr,Croatia,Europe,Southern/Medit. Europe,3
+2021,Apr,Uzbekistan,Europe,Central/Eastern Europe,11
+2021,Apr,Cyprus,Europe,Southern/Medit. Europe,2
+2021,Apr,Greece,Europe,Southern/Medit. Europe,9
+2021,Apr,Turkey,Europe,Southern/Medit. Europe,35
+2021,Apr,Spain,Europe,Southern/Medit. Europe,62
+2021,Apr,Slovenia,Europe,Southern/Medit. Europe,5
+2021,Apr,Finland,Europe,Northern Europe,80
+2021,Apr,Denmark,Europe,Northern Europe,70
+2021,Apr,Ireland,Europe,Northern Europe,44
+2021,Apr,Iceland,Europe,Northern Europe,3
+2021,Apr,Norway,Europe,Northern Europe,54
+2021,Apr,Sweden,Europe,Northern Europe,110
+2021,Apr,Austria,Europe,Western Europe,68
+2021,Apr,United Kingdom,Europe,Northern Europe,596
+2021,Apr,Belgium,Europe,Western Europe,71
+2021,Apr,France,Europe,Western Europe,344
+2021,Apr,Germany,Europe,Western Europe,660
+2021,Apr,Luxembourg,Europe,Western Europe,3
+2021,Apr,Switzerland,Europe,Western Europe,193
+2021,Apr,Netherlands,Europe,Western Europe,152
+2021,Apr,Other in Europe,Europe,NULL,7
+2021,Aug,Switzerland,Europe,Western Europe,277
+2021,Aug,Other in Europe,Europe,NULL,16
+2021,Aug,Netherlands,Europe,Western Europe,341
+2021,Aug,Luxembourg,Europe,Western Europe,7
+2021,Aug,Germany,Europe,Western Europe,1164
+2021,Aug,France,Europe,Western Europe,1265
+2021,Aug,Belgium,Europe,Western Europe,258
+2021,Aug,United Kingdom,Europe,Northern Europe,1863
+2021,Aug,Austria,Europe,Western Europe,134
+2021,Aug,Sweden,Europe,Northern Europe,198
+2021,Aug,Norway,Europe,Northern Europe,101
+2021,Aug,Iceland,Europe,Northern Europe,6
+2021,Aug,Ireland,Europe,Northern Europe,92
+2021,Aug,Denmark,Europe,Northern Europe,143
+2021,Aug,Finland,Europe,Northern Europe,84
+2021,Aug,Serbia,Europe,Southern/Medit. Europe,6
+2021,Aug,Slovenia,Europe,Southern/Medit. Europe,9
+2021,Aug,Turkey,Europe,Southern/Medit. Europe,74
+2021,Aug,Spain,Europe,Southern/Medit. Europe,177
+2021,Aug,Cyprus,Europe,Southern/Medit. Europe,4
+2021,Aug,Croatia,Europe,Southern/Medit. Europe,6
+2021,Aug,Ukraine,Europe,Central/Eastern Europe,37
+2021,Aug,Uzbekistan,Europe,Central/Eastern Europe,17
+2021,Aug,Greece,Europe,Southern/Medit. Europe,19
+2021,Aug,Israel,Europe,Southern/Medit. Europe,1155
+2021,Aug,Italy,Europe,Southern/Medit. Europe,254
+2021,Aug,Portugal,Europe,Southern/Medit. Europe,45
+2021,Aug,Slovakia,Europe,Central/Eastern Europe,18
+2021,Aug,Russian Federation,Europe,Central/Eastern Europe,270
+2021,Aug,Romania,Europe,Central/Eastern Europe,27
+2021,Aug,Lithuania,Europe,Central/Eastern Europe,18
+2021,Aug,Poland,Europe,Central/Eastern Europe,94
+2021,Aug,Latvia,Europe,Central/Eastern Europe,9
+2021,Aug,Kyrgyzstan,Europe,Central/Eastern Europe,2
+2021,Aug,Czech Republic,Europe,Central/Eastern Europe,34
+2021,Aug,Estonia,Europe,Central/Eastern Europe,16
+2021,Aug,Hungary,Europe,Central/Eastern Europe,20
+2021,Aug,Kazakhstan,Europe,Central/Eastern Europe,113
+2021,Aug,Yemen,Middle East,NULL,10
+2021,Aug,Other in Middle East,Middle East,NULL,8
+2021,Aug,Bulgaria,Europe,Central/Eastern Europe,9
+2021,Aug,Belarus,Europe,Central/Eastern Europe,6
+2021,Aug,U.A.E.,Middle East,NULL,243
+2021,Aug,Saudi Arabia,Middle East,NULL,11
+2021,Aug,Qatar,Middle East,NULL,53
+2021,Aug,Lebanon,Middle East,NULL,4
+2021,Aug,Oman,Middle East,NULL,81
+2021,Aug,Jordan,Middle East,NULL,13
+2021,Aug,Kuwait,Middle East,NULL,237
+2021,Aug,Egypt,Middle East,NULL,21
+2021,Aug,Iraq,Middle East,NULL,5
+2021,Aug,Bahrain,Middle East,NULL,25
+2021,Aug,Other in Africa,Africa,NULL,47
+2021,Aug,Mauritius,Africa,NULL,18
+2021,Aug,Ethiopia,Africa,NULL,24
+2021,Aug,Kenya,Africa,NULL,10
+2021,Aug,South  Africa,Africa,NULL,70
+2021,Aug,Morocco,Africa,NULL,16
+2021,Aug,Colombia,America,NULL,9
+2021,Aug,Peru,America,NULL,6
+2021,Aug,Other in America,America,NULL,10
+2021,Aug,Uruguay,America,NULL,2
+2021,Aug,Brazil,America,NULL,58
+2021,Aug,Chile,America,NULL,11
+2021,Aug,Argentina,America,NULL,29
+2021,Aug,The United States of America,America,NULL,1889
+2021,Aug,Mexico,America,NULL,26
+2021,Aug,Canada,America,NULL,271
+2021,Aug,Vietnam,Asia and the Pacific,South-East Asia,64
+2021,Aug,Singapore,Asia and the Pacific,South-East Asia,98
+2021,Aug,Myanmar,Asia and the Pacific,South-East Asia,93
+2021,Aug,Philippines,Asia and the Pacific,South-East Asia,205
+2021,Aug,Malaysia,Asia and the Pacific,South-East Asia,246
+2021,Aug,Laos,Asia and the Pacific,South-East Asia,14
+2021,Aug,Indonesia,Asia and the Pacific,South-East Asia,125
+2021,Aug,Cambodia,Asia and the Pacific,South-East Asia,128
+2021,Aug,Brunei,Asia and the Pacific,South-East Asia,1
+2021,Aug,Sri Lanka,Asia and the Pacific,South Asia,23
+2021,Aug,Maldives,Asia and the Pacific,South Asia,12
+2021,Aug,Iran,Asia and the Pacific,South Asia,46
+2021,Aug,Nepal,Asia and the Pacific,South Asia,2
+2021,Aug,Pakistan,Asia and the Pacific,South Asia,8
+2021,Aug,India,Asia and the Pacific,South Asia,112
+2021,Aug,Bhutan,Asia and the Pacific,South Asia,7
+2021,Aug,Other in Oceania,Asia and the Pacific,Oceania,2
+2021,Aug,Bangladesh,Asia and the Pacific,South Asia,8
+2021,Aug,New Zealand,Asia and the Pacific,Oceania,51
+2021,Aug,Australia,Asia and the Pacific,Oceania,241
+2021,Aug,Taiwan,Asia and the Pacific,North-East Asia,116
+2021,Aug,Mongolia,Asia and the Pacific,North-East Asia,10
+2021,Aug,Macao (China),Asia and the Pacific,North-East Asia,1
+2021,Aug,Korea (Republic of),Asia and the Pacific,North-East Asia,264
+2021,Aug,Japan,Asia and the Pacific,North-East Asia,560
+2021,Aug,Hong Kong (China),Asia and the Pacific,North-East Asia,94
+2021,Aug,China,Asia and the Pacific,North-East Asia,976
+2021,Aug,Other in Asia,Asia and the Pacific,NULL,0
+2021,Aug,North Korea,Asia and the Pacific,North-East Asia,0
+2021,Dec,North Korea,Asia and the Pacific,North-East Asia,0
+2021,Dec,China,Asia and the Pacific,North-East Asia,4515
+2021,Dec,Hong Kong (China),Asia and the Pacific,North-East Asia,436
+2021,Dec,Japan,Asia and the Pacific,North-East Asia,3656
+2021,Dec,Korea (Republic of),Asia and the Pacific,North-East Asia,4569
+2021,Dec,Macao (China),Asia and the Pacific,North-East Asia,238
+2021,Dec,Mongolia,Asia and the Pacific,North-East Asia,1696
+2021,Dec,Taiwan,Asia and the Pacific,North-East Asia,601
+2021,Dec,Australia,Asia and the Pacific,Oceania,6199
+2021,Dec,New Zealand,Asia and the Pacific,Oceania,569
+2021,Dec,Bangladesh,Asia and the Pacific,South Asia,1290
+2021,Dec,Other in Oceania,Asia and the Pacific,Oceania,24
+2021,Dec,Bhutan,Asia and the Pacific,South Asia,338
+2021,Dec,India,Asia and the Pacific,South Asia,4524
+2021,Dec,Pakistan,Asia and the Pacific,South Asia,591
+2021,Dec,Nepal,Asia and the Pacific,South Asia,236
+2021,Dec,Iran,Asia and the Pacific,South Asia,601
+2021,Dec,Maldives,Asia and the Pacific,South Asia,651
+2021,Dec,Sri Lanka,Asia and the Pacific,South Asia,323
+2021,Dec,Brunei,Asia and the Pacific,South-East Asia,11
+2021,Dec,Cambodia,Asia and the Pacific,South-East Asia,2336
+2021,Dec,Indonesia,Asia and the Pacific,South-East Asia,983
+2021,Dec,Laos,Asia and the Pacific,South-East Asia,355
+2021,Dec,Malaysia,Asia and the Pacific,South-East Asia,2450
+2021,Dec,Philippines,Asia and the Pacific,South-East Asia,1855
+2021,Dec,Myanmar,Asia and the Pacific,South-East Asia,3586
+2021,Dec,Singapore,Asia and the Pacific,South-East Asia,4055
+2021,Dec,Vietnam,Asia and the Pacific,South-East Asia,914
+2021,Dec,Canada,America,NULL,2857
+2021,Dec,Mexico,America,NULL,232
+2021,Dec,The United States of America,America,NULL,16642
+2021,Dec,Argentina,America,NULL,191
+2021,Dec,Chile,America,NULL,101
+2021,Dec,Brazil,America,NULL,787
+2021,Dec,Uruguay,America,NULL,15
+2021,Dec,Other in America,America,NULL,90
+2021,Dec,Peru,America,NULL,56
+2021,Dec,Colombia,America,NULL,80
+2021,Dec,Morocco,Africa,NULL,65
+2021,Dec,South  Africa,Africa,NULL,258
+2021,Dec,Kenya,Africa,NULL,40
+2021,Dec,Ethiopia,Africa,NULL,101
+2021,Dec,Mauritius,Africa,NULL,76
+2021,Dec,Bahrain,Middle East,NULL,323
+2021,Dec,Other in Africa,Africa,NULL,194
+2021,Dec,Other in Asia,Asia and the Pacific,NULL,55
+2021,Dec,Iraq,Middle East,NULL,62
+2021,Dec,Egypt,Middle East,NULL,166
+2021,Dec,Kuwait,Middle East,NULL,1382
+2021,Dec,Jordan,Middle East,NULL,169
+2021,Dec,Oman,Middle East,NULL,1068
+2021,Dec,Lebanon,Middle East,NULL,50
+2021,Dec,Qatar,Middle East,NULL,701
+2021,Dec,Saudi Arabia,Middle East,NULL,211
+2021,Dec,Other in Middle East,Middle East,NULL,105
+2021,Dec,Belarus,Europe,Central/Eastern Europe,256
+2021,Dec,Yemen,Middle East,NULL,136
+2021,Dec,U.A.E.,Middle East,NULL,1906
+2021,Dec,Hungary,Europe,Central/Eastern Europe,881
+2021,Dec,Estonia,Europe,Central/Eastern Europe,708
+2021,Dec,Czech Republic,Europe,Central/Eastern Europe,1503
+2021,Dec,Bulgaria,Europe,Central/Eastern Europe,398
+2021,Dec,Kazakhstan,Europe,Central/Eastern Europe,5000
+2021,Dec,Kyrgyzstan,Europe,Central/Eastern Europe,110
+2021,Dec,Lithuania,Europe,Central/Eastern Europe,780
+2021,Dec,Latvia,Europe,Central/Eastern Europe,400
+2021,Dec,Romania,Europe,Central/Eastern Europe,1192
+2021,Dec,Poland,Europe,Central/Eastern Europe,4159
+2021,Dec,Russian Federation,Europe,Central/Eastern Europe,21205
+2021,Dec,Slovakia,Europe,Central/Eastern Europe,794
+2021,Dec,Portugal,Europe,Southern/Medit. Europe,700
+2021,Dec,Italy,Europe,Southern/Medit. Europe,2751
+2021,Dec,Israel,Europe,Southern/Medit. Europe,5461
+2021,Dec,Greece,Europe,Southern/Medit. Europe,300
+2021,Dec,Uzbekistan,Europe,Central/Eastern Europe,728
+2021,Dec,Ukraine,Europe,Central/Eastern Europe,1623
+2021,Dec,Croatia,Europe,Southern/Medit. Europe,97
+2021,Dec,Cyprus,Europe,Southern/Medit. Europe,56
+2021,Dec,Spain,Europe,Southern/Medit. Europe,1664
+2021,Dec,Turkey,Europe,Southern/Medit. Europe,1138
+2021,Dec,Slovenia,Europe,Southern/Medit. Europe,146
+2021,Dec,Serbia,Europe,Southern/Medit. Europe,94
+2021,Dec,Finland,Europe,Northern Europe,3958
+2021,Dec,Denmark,Europe,Northern Europe,5136
+2021,Dec,Ireland,Europe,Northern Europe,1428
+2021,Dec,Iceland,Europe,Northern Europe,100
+2021,Dec,Norway,Europe,Northern Europe,3371
+2021,Dec,Sweden,Europe,Northern Europe,12804
+2021,Dec,Austria,Europe,Western Europe,3299
+2021,Dec,United Kingdom,Europe,Northern Europe,21311
+2021,Dec,Belgium,Europe,Western Europe,2799
+2021,Dec,France,Europe,Western Europe,12120
+2021,Dec,Germany,Europe,Western Europe,24899
+2021,Dec,Luxembourg,Europe,Western Europe,108
+2021,Dec,Netherlands,Europe,Western Europe,4648
+2021,Dec,Other in Europe,Europe,NULL,241
+2021,Dec,Switzerland,Europe,Western Europe,6409
+2021,Feb,Other in Europe,Europe,NULL,7
+2021,Feb,Switzerland,Europe,Western Europe,181
+2021,Feb,Netherlands,Europe,Western Europe,121
+2021,Feb,Luxembourg,Europe,Western Europe,3
+2021,Feb,Germany,Europe,Western Europe,575
+2021,Feb,France,Europe,Western Europe,277
+2021,Feb,Belgium,Europe,Western Europe,56
+2021,Feb,United Kingdom,Europe,Northern Europe,528
+2021,Feb,Austria,Europe,Western Europe,42
+2021,Feb,Sweden,Europe,Northern Europe,104
+2021,Feb,Norway,Europe,Northern Europe,68
+2021,Feb,Iceland,Europe,Northern Europe,3
+2021,Feb,Ireland,Europe,Northern Europe,41
+2021,Feb,Finland,Europe,Northern Europe,69
+2021,Feb,Slovenia,Europe,Southern/Medit. Europe,4
+2021,Feb,Spain,Europe,Southern/Medit. Europe,38
+2021,Feb,Denmark,Europe,Northern Europe,52
+2021,Feb,Turkey,Europe,Southern/Medit. Europe,33
+2021,Feb,Greece,Europe,Southern/Medit. Europe,9
+2021,Feb,Cyprus,Europe,Southern/Medit. Europe,2
+2021,Feb,Uzbekistan,Europe,Central/Eastern Europe,8
+2021,Feb,Croatia,Europe,Southern/Medit. Europe,3
+2021,Feb,Israel,Europe,Southern/Medit. Europe,37
+2021,Feb,Italy,Europe,Southern/Medit. Europe,131
+2021,Feb,Portugal,Europe,Southern/Medit. Europe,20
+2021,Feb,Serbia,Europe,Southern/Medit. Europe,3
+2021,Feb,Ukraine,Europe,Central/Eastern Europe,19
+2021,Feb,Slovakia,Europe,Central/Eastern Europe,9
+2021,Feb,Romania,Europe,Central/Eastern Europe,14
+2021,Feb,Russian Federation,Europe,Central/Eastern Europe,284
+2021,Feb,Lithuania,Europe,Central/Eastern Europe,9
+2021,Feb,Poland,Europe,Central/Eastern Europe,48
+2021,Feb,Latvia,Europe,Central/Eastern Europe,5
+2021,Feb,Kyrgyzstan,Europe,Central/Eastern Europe,1
+2021,Feb,Czech Republic,Europe,Central/Eastern Europe,17
+2021,Feb,Estonia,Europe,Central/Eastern Europe,8
+2021,Feb,Hungary,Europe,Central/Eastern Europe,10
+2021,Feb,Kazakhstan,Europe,Central/Eastern Europe,57
+2021,Feb,Yemen,Middle East,NULL,2
+2021,Feb,Other in Middle East,Middle East,NULL,2
+2021,Feb,Bulgaria,Europe,Central/Eastern Europe,5
+2021,Feb,Belarus,Europe,Central/Eastern Europe,3
+2021,Feb,U.A.E.,Middle East,NULL,23
+2021,Feb,Saudi Arabia,Middle East,NULL,6
+2021,Feb,Oman,Middle East,NULL,19
+2021,Feb,Qatar,Middle East,NULL,12
+2021,Feb,Kuwait,Middle East,NULL,157
+2021,Feb,Lebanon,Middle East,NULL,1
+2021,Feb,Iraq,Middle East,NULL,1
+2021,Feb,Jordan,Middle East,NULL,3
+2021,Feb,Bahrain,Middle East,NULL,6
+2021,Feb,Egypt,Middle East,NULL,3
+2021,Feb,Other in Africa,Africa,NULL,29
+2021,Feb,Mauritius,Africa,NULL,11
+2021,Feb,Ethiopia,Africa,NULL,15
+2021,Feb,Kenya,Africa,NULL,6
+2021,Feb,South  Africa,Africa,NULL,31
+2021,Feb,Morocco,Africa,NULL,10
+2021,Feb,Colombia,America,NULL,3
+2021,Feb,Peru,America,NULL,2
+2021,Feb,Other in America,America,NULL,4
+2021,Feb,Uruguay,America,NULL,1
+2021,Feb,Brazil,America,NULL,30
+2021,Feb,Chile,America,NULL,4
+2021,Feb,Argentina,America,NULL,5
+2021,Feb,The United States of America,America,NULL,668
+2021,Feb,Mexico,America,NULL,10
+2021,Feb,Canada,America,NULL,109
+2021,Feb,Vietnam,Asia and the Pacific,South-East Asia,46
+2021,Feb,Singapore,Asia and the Pacific,South-East Asia,74
+2021,Feb,Philippines,Asia and the Pacific,South-East Asia,45
+2021,Feb,Myanmar,Asia and the Pacific,South-East Asia,16
+2021,Feb,Malaysia,Asia and the Pacific,South-East Asia,11
