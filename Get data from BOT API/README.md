@@ -75,3 +75,7 @@ series_codes = create_series_code_list("EXRXXXXM00217", "EXRXXXXM00223")  # Exam
 
 # Retrieve exchange rate data starting from 2022
 exchange_rate_data = get_BOT_stat_data("your_client_id", series_codes, 2022)
+```
+
+# Article on this project
+Link: https://medium.com/@toeyetoeyetoeye/automating-data-acquisition-building-data-pipeline-with-python-and-sql-server-165c8e27cb05
