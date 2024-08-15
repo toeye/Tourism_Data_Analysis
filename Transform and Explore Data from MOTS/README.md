@@ -14,25 +14,15 @@ This project focuses on transforming raw tourism data from the Ministry of Touri
 **Key Steps:**
 
 1. **Data Extraction:**  Raw data is extracted from Excel files provided by MOTS.
-2. **Data Transformation (Power Query):** The data is cleaned, restructured, and transformed using Power Query within Excel to address formatting inconsistencies, create a date dimension, and prepare it for database storage. 
+2. **Data Transformation (Power Query):** The data is cleaned, restructured, and transformed using Power Query within Power BI to address formatting inconsistencies, create a date dimension, and prepare it for database storage. 
 3. **Data Loading (DAX Studio):**  The transformed data is loaded into a SQL Server database using the DAX Studio tool. 
 4. **Data Analysis (SQL):**  SQL queries are used to analyze the data, uncovering key trends in visitor arrivals, regional performance, tourist origins, and spending patterns. 
-5. **Data Preparation for Visualization (SQL):**  Two analysis-ready SQL views are created – one for region-level data and one for nationwide data – to simplify further analysis and visualization in tools like Power BI.
 
 ## SQL Scripts
 
-This repository contains SQL scripts for setting up the database and creating the analysis-ready views:
+This repository contains SQL scripts for exploring and analyzing data:
 
-* **`create_tables.sql`:**  Creates the database (if applicable) and the necessary tables to store the data. 
-* **`create_views.sql`:**  Creates the SQL views that restructure and organize the data for analysis. 
-
-**Instructions for Using SQL Scripts:**
-
-1. Ensure you have a SQL Server instance set up. 
-2. Open SQL Server Management Studio (SSMS) or a similar tool. 
-3. Connect to your SQL Server instance.
-4. Execute the `create_tables.sql` script to create the database and tables. 
-5. After loading the transformed data into the tables, execute the `create_views.sql` script to create the views.
+* **`Explore_Thailand_tourism_data.sql`:**  Exploring and analyzing Thailand tourism data.
 
 ## Key Findings from SQL Analysis
 
@@ -44,11 +34,6 @@ The SQL analysis revealed:
 * Shifts in top source countries for foreign tourists. 
 * Opportunities for diversifying tourism revenue and attracting more international visitors to provinces beyond the traditional hubs. 
 
-## Related Projects
-
-* Automated Data Acquisition with Python and SQL:  [Link to your BOT API project repo]
-* Interactive Power BI Dashboard: [Link to your Power BI project repo]
-
 ##  Further Exploration
 
-For a detailed walkthrough of the Power Query transformations and SQL analysis, check out my Medium post: [Link to your Medium post]
+For a detailed walkthrough of the Power Query transformations and SQL analysis, check out my Medium post: https://medium.com/@toeyetoeyetoeye/exploring-thailands-tourism-data-with-power-query-and-sql-00ba9a37f593
