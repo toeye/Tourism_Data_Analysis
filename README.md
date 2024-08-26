@@ -24,6 +24,13 @@ This repository contains the following:
     * **`Transform and Explore Data from MOTS`:**  Power Query and SQL scripts for transforming and cleaning data from MOTS.
 * **`README.md`:**  This file.
 
+
+## Exploring the Dashboard
+
+Follow this link: https://app.powerbi.com/view?r=eyJrIjoiNzdiZjg2M2EtNDYxMS00YzM5LWFlNWYtZjk5NmEyNTczYWExIiwidCI6IjVhZmYyYzQ2LTAwYmMtNDNiMC04N2NlLTU4ZTQ1ODFjMmJkNiIsImMiOjEwfQ==
+or open the `.pbix` file in Power BI Desktop to interact with the dashboard and explore the data yourself.
+
+
 ## Dashboard Walkthrough
 
 **Dashboard 1: Unveiling Thailand's Tourism Landscape: A Year-on-Year Perspective**
@@ -68,15 +75,12 @@ This repository contains the following:
 * Interactive Features: Year filter and Region/Province filter.
 * Key Insights:  Identifies provinces with potential for attracting more foreign visitors and provinces where accommodation supply might not be meeting demand. 
 
-## Exploring the Dashboard
 
-Follow this link: https://app.powerbi.com/view?r=eyJrIjoiNzdiZjg2M2EtNDYxMS00YzM5LWFlNWYtZjk5NmEyNTczYWExIiwidCI6IjVhZmYyYzQ2LTAwYmMtNDNiMC04N2NlLTU4ZTQ1ODFjMmJkNiIsImMiOjEwfQ==
-or open the `.pbix` file in Power BI Desktop to interact with the dashboard and explore the data yourself.
-
-**Related Projects:**
+## Related Projects
 
 * Automated Data Acquisition with Python and SQL:  https://github.com/toeye/Tourism_Data_Analysis/tree/main/Get%20data%20from%20BOT%20API
 * Data Transformation and Exploration with Power Query and SQL:  https://github.com/toeye/Tourism_Data_Analysis/tree/main/Transform%20and%20Explore%20Data%20from%20MOTS
+
 
 ##  Further Exploration
 
